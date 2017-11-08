@@ -1,0 +1,2 @@
+#LWP-Cookies-2.0
+Set-Cookie3: uid="70d77809-d0ab-4bf8-a28f-f8d6a9254da4"; path="/"; domain="192.168.0.84"; path_spec; discard; HttpOnly=None; version=0
